@@ -1,8 +1,8 @@
-## 🧑 💻Hello! This is SUN.
+## 🧑 💻Hello! This is SunSeob Kim.
 
  
 
-### ✉️ @gmail.com
+### ✉️ tjq00909@gmail.com
 
  
 
@@ -38,8 +38,12 @@
   <img src ="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
 
 <img src ="https://img.shields.io/badge/-Visual Studio Code-007ACC?&style=for-the-badge&logo=Visual Studio Code&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
-
-  <img src ="https://img.shields.io/badge/-Amazon AWS-232F3E?&style=for-the-badge&logo=Amazon AWS&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
+ 
+  <img src ="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
+ 
+  <img src ="https://img.shields.io/badge/-Eclipse-2C2255?&style=for-the-badge&logo=Eclips IDE&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
+ 
+  <img src ="https://img.shields.io/badge/-Sqldeveloper-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
 
 </div>
 
